@@ -1,0 +1,11 @@
+#ignore any executables
+*.exe
+
+#ignore vscode file
+.vscode
+
+#ignore any custom files
+ranjan7kdemo
+
+#Ignore any folder
+app

@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/cloudacademy/godemo/math"
-	"github.com/cloudacademy/godemo/util"
+	"github.com/ranjan7k/godemo/math"
+	"github.com/ranjan7k/godemo/util"
 )
 
 func main() {

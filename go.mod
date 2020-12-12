@@ -1,5 +1,5 @@
-module github.com/cloudacademy/godemo
+module github.com/ranjan7k/godemo
 
-go 1.13
+go 1.15
 
-require github.com/google/uuid v1.1.1
+require github.com/google/uuid v1.1.2
